@@ -1,26 +1,26 @@
-.konica {
+.heidelberg img {
     width: 700px;
 }
 
-.cifra-text {
+.ofset-text {
     font-size: 20px;
     line-height: 30px;
     padding: 40px 20px 20px 40px;
 }
 
-.cifra-text-img {
+.ofset-text-img {
     display: flex;
     padding-top: 50px;
 }
 
-.cifra-text-img h2 {
+.ofset-text-img h2 {
     padding: 120px 20px 0px 20px;
     font-size: ;
 }
 
 table {
-    width: 1000px;
-    height: 300px;
+    width: 1100px;
+    height: 350px;
     margin: 0 auto;
     border: 0.5px solid #f0ebeb;
     text-align: center;

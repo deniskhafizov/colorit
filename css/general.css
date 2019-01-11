@@ -36,6 +36,11 @@
     font-weight: 600;
 }
 
+.header-contacts_tel a {
+    color: #434242;
+    text-decoration: none;
+}
+
 .header-contacts_adress {
     font-size: 20px;
     padding: 5px 0px 5px 0px;
@@ -51,6 +56,11 @@
     font-size: 17px;
     font-weight: 400;
     text-align: center;
+}
+
+.header-contacts_mail a {
+    text-decoration: none;
+    color: #434242;
 }
 
 .menu {
@@ -106,5 +116,15 @@
     font-size: 17px;
     font-weight: 400;
     text-align: center;
+}
+
+.footer-contacts_tel a {
+    color: #434242;
+    text-decoration: none;
+}
+
+.footer-contacts_mail a {
+    text-decoration: none;
+    color: #434242;
 }
 
