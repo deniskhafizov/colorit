@@ -1,6 +1,7 @@
 .content {
     width: 1280px;
     /*background-color: aliceblue;*/
+    display: block;
     margin: 0 auto;
     font-family: Neuron;
     color: #434242;
@@ -38,7 +39,7 @@
 .header-contacts_adress {
     font-size: 20px;
     padding: 5px 0px 5px 0px;
-    font-weight: 200;
+    font-weight: 400;
     text-align: center;
 }
 
@@ -47,8 +48,8 @@
 }
 
 .header-contacts_mail {
-    font-size: 16px;
-    font-weight: 200;
+    font-size: 17px;
+    font-weight: 400;
     text-align: center;
 }
 
@@ -61,7 +62,7 @@
     text-decoration: none;
     color: #434242;
     font-size: 22px;
-    font-weight: 200;
+    font-weight: 400;
 }
 
 .slider {
@@ -97,13 +98,13 @@
 .footer-contacts_adress {
     font-size: 20px;
     padding: 5px 0px 5px 0px;
-    font-weight: 200;
+    font-weight: 400;
     text-align: center;
 }
 
 .footer-contacts_mail {
-    font-size: 16px;
-    font-weight: 200;
+    font-size: 17px;
+    font-weight: 400;
     text-align: center;
 }
 
