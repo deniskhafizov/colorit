@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    padding-top: 30px;
+}
+
+.services {
+    display: flex;
+    margin: 0 auto;
+    width: 900px;
+}
+
+.services-cifra, .services-ofset, .services-rizo, .services-shirik, .services-korob {
+    padding: 20px;
+}
+
+.services-cifra_name, .services-ofset_name, .services-rizo_name, .services-shirik_name, .services-korob_name {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: 200;
+}
+
+.services-shirik_logo {
+    padding-left: 15px;
+}
+
+.popular-vizitki, .popular-blank, .popular-buklet, .popular-banner,
+.popular2-kalendar, .popular2-listovka, .popular2-bloknot, .popular2-katalog {
+    display: flex;
+    padding-top: 20px;
+}
+
+.popular-vizitki_name, .popular-balnk_name, .popular-buklet_name, .popular-banner_name,
+.popular2-kalendar_name, .popular2-listovka_name, .popular2-bloknot_name, .popular2-katalog_name {
+    margin: auto 0;
+    padding-left: 20px;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.popular, .popular2 {
+    padding-left: 300px;
+}
+
+.popular_roll {
+    display: flex;
+    margin: 0 auto;
+    padding: 50px 0px 100px 0px;
+}
