@@ -71,60 +71,11 @@
     padding: 0px 15px 0px 15px;
     text-decoration: none;
     color: #434242;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 400;
 }
 
 .slider {
     background-image: url("../images/slider.jpg");
-}
-
-
-.footer-logo {
-    padding: 20px 0px 20px 40px;
-}
-.footer-logo img {
-    width: 170px;
-}
-
-.footer-message {
-    position: relative;
-    top: -80px;
-    left: 590px;
-    padding-right: 40px;
-}
-
-.footer-message img {
-    padding-right: 10px;
-}
-
-.footer-contacts {
-    float: right;
-    position: relative;
-    top: -100px;
-    padding-right: 40px;
-}
-
-.footer-contacts_adress {
-    font-size: 20px;
-    padding: 5px 0px 5px 0px;
-    font-weight: 400;
-    text-align: center;
-}
-
-.footer-contacts_mail {
-    font-size: 17px;
-    font-weight: 400;
-    text-align: center;
-}
-
-.footer-contacts_tel a {
-    color: #434242;
-    text-decoration: none;
-}
-
-.footer-contacts_mail a {
-    text-decoration: none;
-    color: #434242;
 }
 
