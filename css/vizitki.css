@@ -1,21 +1,21 @@
-.shirik img  {
+.vizitki img {
     width: 700px;
 }
 
-.shirik-text {
+.vizitki-text {
     font-size: 1.4em;
     line-height: 1.5em;
-    padding: 0px 100px 20px 40px;
+    padding: 80px 20px 20px 40px;
     max-width: 380px;
 }
 
-.shirik-text-img {
+.vizitki-text-img {
     display: flex;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
-.shirik-text-img h2 {
-    padding: 20px 20px 0px 0px;
+.vizitki-text-img h2 {
+    padding: 150px 20px 0px 20px;
     font-size: ;
 }
 
