@@ -12,7 +12,7 @@ h1 {
 }
 
 .services-cifra, .services-ofset, .services-rizo, .services-shirik, .services-korob {
-    padding: 20px;
+    padding: 22px;
 }
 
 .services-cifra_name, .services-ofset_name, .services-rizo_name, .services-shirik_name, .services-korob_name {
@@ -24,6 +24,16 @@ h1 {
 
 .services-shirik_logo {
     padding-left: 15px;
+}
+
+.services-cifra_text, .services-ofset_text, .services-rizo_text, .services-shirik_text, .services-korob_text {
+    font-size: 16px;
+    text-align: center;
+    color: #939191;
+    font-style: italic;
+    font-weight: 200;
+    padding-top: 10px;
+    line-height: 23px;
 }
 
 .popular-vizitki, .popular-blank, .popular-buklet, .popular-banner,
