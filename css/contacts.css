@@ -1,0 +1,27 @@
+.contacts {
+    display: flex;
+    height: 900px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.contacts-tel {
+    font-size: 19px;
+    line-height: 44px;
+    font-weight: bold;
+    padding: 20px 0px 0px 40px;
+}
+
+.contacts-tel em {
+    font-size: 21px;
+    font-weight: 400;
+}
+
+.vk_groups {
+    padding: 30px 0px 0px 60px;
+}
+
+
+h1 {
+    text-align: center;
+}

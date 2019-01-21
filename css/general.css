@@ -52,6 +52,23 @@
     height: 396px;
 }
 
+.slider-name {
+    position: relative;
+    width: 800px;
+    height: 100px;
+    margin: 0 auto;
+    top: 160px;
+    background-color: white;
+    border-radius: 6px 6px 6px 6px;
+}
+
+.slider-name {
+    text-align: center;
+    font-size: 32px;
+    padding-top: 6px;
+    font-weight: 200;
+}
+
 .header-contacts_mail {
     font-size: 18px;
     font-weight: 400;
