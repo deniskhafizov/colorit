@@ -67,6 +67,7 @@
     font-size: 32px;
     padding-top: 6px;
     font-weight: 200;
+    font-weight: 400;
 }
 
 .header-contacts_mail {
@@ -89,7 +90,17 @@
     text-decoration: none;
     color: #434242;
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 600;
+    padding-top: 8px;
+    padding-bottom: 3px;
+    border-radius: 17px;
+    transition: 350ms;
+}
+
+.menu-item:hover {
+    background-color: #b9b8b8;
+    color: white;
+    transition: 350ms;
 }
 
 .slider {

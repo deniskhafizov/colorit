@@ -7,24 +7,28 @@ h1 {
 
 .services {
     display: flex;
+    width: 960px;
     margin: 0 auto;
-    width: 900px;
 }
 
 
 .services-cifra, .services-ofset, .services-rizo, .services-shirik, .services-korob {
-    padding: 22px;
+    padding: 28px;
 }
+
+/*.services-cifra_text:hover, .services-ofset_logo:hover, .services-rizo_logo:hover,
+.services-shirik_logo:hover, .services-korob_logo:hover {
+    background-color: gainsboro;
+    border-radius: 70px;
+    padding: 10px;
+    transition: 500ms;
+}*/
 
 .services-cifra_name, .services-ofset_name, .services-rizo_name, .services-shirik_name, .services-korob_name {
     text-align: center;
     padding-top: 20px;
     font-size: 20px;
-    text-align: 200;
-}
-
-.services-shirik_logo {
-    padding-left: 15px;
+    font-weight: 600;
 }
 
 .services-cifra_text, .services-ofset_text, .services-rizo_text, .services-shirik_text, .services-korob_text {
@@ -32,7 +36,7 @@ h1 {
     text-align: center;
     color: #939191;
     font-style: italic;
-    font-weight: 200;
+    font-weight: 400;
     padding-top: 10px;
     line-height: 23px;
 }
@@ -50,6 +54,7 @@ h1 {
     font-size: 25px;
     font-weight: 600;
 }
+
 
 .popular, .popular2 {
     padding-left: 275px;
