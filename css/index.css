@@ -11,18 +11,27 @@ h1 {
     margin: 0 auto;
 }
 
+.services-cifra:hover, .services-ofset:hover, .services-rizo:hover, .services-shirik:hover, .services-korob:hover {
+    background-color: #e7e6e6;
+    transition: 400ms;
+    border-radius: 50px;
+    box-shadow: 0px 0px 25px 5px #a4a4a4;
+}
+
+
 
 .services-cifra, .services-ofset, .services-rizo, .services-shirik, .services-korob {
     padding: 28px;
 }
 
-/*.services-cifra_text:hover, .services-ofset_logo:hover, .services-rizo_logo:hover,
+
+.services-cifra_logo:hover, .services-ofset_logo:hover, .services-rizo_logo:hover,
 .services-shirik_logo:hover, .services-korob_logo:hover {
-    background-color: gainsboro;
-    border-radius: 70px;
-    padding: 10px;
+    border-radius: 100px;
     transition: 500ms;
-}*/
+}
+
+
 
 .services-cifra_name, .services-ofset_name, .services-rizo_name, .services-shirik_name, .services-korob_name {
     text-align: center;
@@ -44,14 +53,22 @@ h1 {
 .popular-vizitki, .popular-blank, .popular-buklet, .popular-banner,
 .popular2-kalendar, .popular2-listovka, .popular2-bloknot, .popular2-katalog {
     display: flex;
-    padding-top: 20px;
+    padding: 15px;
+}
+
+.popular-vizitki:hover, .popular-blank:hover, .popular-buklet:hover, .popular-banner:hover,
+.popular2-kalendar:hover, .popular2-listovka:hover, .popular2-bloknot:hover, .popular2-katalog:hover {
+    background-color: #e4e3e3;
+    transition: 350ms;
+    border-radius: 30px;
+    box-shadow: 0px 0px 15px 5px #929292;
 }
 
 .popular-vizitki_name, .popular-balnk_name, .popular-buklet_name, .popular-banner_name,
 .popular2-kalendar_name, .popular2-listovka_name, .popular2-bloknot_name, .popular2-katalog_name {
     margin: auto 0;
     padding-left: 20px;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 600;
 }
 
