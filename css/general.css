@@ -86,6 +86,7 @@
 }
 .menu-item {
     padding: 0px 15px 0px 15px;
+    margin: 0px 5px 0px 5px;
     text-decoration: none;
     color: #434242;
     font-size: 18px;
