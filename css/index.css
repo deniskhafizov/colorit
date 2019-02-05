@@ -55,14 +55,15 @@ h1 {
 .popular2-kalendar, .popular2-listovka, .popular2-bloknot, .popular2-katalog {
     display: flex;
     padding: 15px;
+    transition: 350ms;
 }
 
 .popular-vizitki:hover, .popular-blank:hover, .popular-buklet:hover, .popular-banner:hover,
 .popular2-kalendar:hover, .popular2-listovka:hover, .popular2-bloknot:hover, .popular2-katalog:hover {
-    background-color: #e4e3e3;
+    background-color: #e7e6e6;
     transition: 350ms;
     border-radius: 40px;
-    box-shadow: 0px 0px 15px 5px #929292;
+    box-shadow: 0px 0px 25px 5px #a4a4a4;
 }
 
 .popular-vizitki_name, .popular-balnk_name, .popular-buklet_name, .popular-banner_name,
