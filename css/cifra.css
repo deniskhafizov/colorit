@@ -19,6 +19,47 @@
     font-size: ;
 }
 
+.services-cifra {
+    background-color: #e7e6e6;
+    border-radius: 50px;
+    box-shadow: 0px 0px 25px 5px #a4a4a4;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    padding-top: 30px;
+}
+
+
+.services-cifra_logo:hover, .services-ofset_logo:hover, .services-rizo_logo:hover,
+.services-shirik_logo:hover, .services-korob_logo:hover {
+    border-radius: 100px;
+    transition: 500ms;
+}
+
+
+
+.services-cifra_name, .services-ofset_name, .services-rizo_name, .services-shirik_name, .services-korob_name {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.services-cifra_text, .services-ofset_text, .services-rizo_text, .services-shirik_text, .services-korob_text {
+    font-size: 16px;
+    text-align: center;
+    color: #939191;
+    font-style: italic;
+    font-weight: 400;
+    padding-top: 10px;
+    line-height: 23px;
+}
+
+
 table {
     width: 1000px;
     height: 300px;
