@@ -1,3 +1,23 @@
+.popular {
+    display: flex;
+    width: 1060px;
+    margin: 0 auto;
+}
+
+.popular-vizitki, .popular-blank, .popular-buklet, .popular-banner,
+.popular2-kalendar, .popular2-listovka, .popular2-bloknot, .popular2-katalog {
+    padding: 20px;
+}
+
+.popular-vizitki_name, .popular-balnk_name, .popular-buklet_name, .popular-banner_name,
+.popular2-kalendar_name, .popular2-listovka_name, .popular2-bloknot_name, .popular2-katalog_name {
+    margin: auto 0;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 15px;
+}
+
 .services {
     display: flex;
     width: 1060px;
