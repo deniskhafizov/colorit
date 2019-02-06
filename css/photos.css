@@ -5,3 +5,29 @@
 h2 {
     text-align: center;
 }
+
+.services {
+    padding-bottom: 0px;
+}
+
+.photos {
+    padding-top: 40px;
+}
+
+.photos p {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.photos p img {
+    padding: 10px;
+    background-color: #fffefe;
+    border-radius: 158px;
+    box-shadow: 0px 0px 15px 0px #848484;
+}
+
+.photos p img:hover {
+    height: 142px;
+    transition: 350ms;
+}
