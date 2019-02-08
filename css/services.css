@@ -100,3 +100,9 @@ h1 {
     padding-top: 10px;
     line-height: 23px;
 }
+
+.h2-table {
+    width: 900px;
+    padding-bottom: 20px;
+    padding-top: 40px;
+}

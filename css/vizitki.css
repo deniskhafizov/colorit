@@ -19,6 +19,26 @@
     font-size: ;
 }
 
+
+.photos {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+.photos p {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.photos p img {
+    padding: 10px;
+    background-color: #fffefe;
+    border-radius: 158px;
+    box-shadow: 0px 0px 15px 0px #848484;
+}
+
+
 table {
     width: 1000px;
     height: 300px;
