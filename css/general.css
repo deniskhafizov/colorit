@@ -63,7 +63,6 @@ body {
     position: relative;
     width: 800px;
     height: 100px;
-    margin: 0 auto;
     top: 160px;
     background-color: white;
     border-radius: 6px 6px 6px 6px;
@@ -73,9 +72,13 @@ body {
     text-align: center;
     font-size: 30px;
     padding-top: 6px;
-    padding-left: 70px;
+    margin: 0 auto;
     font-weight: 400;
     box-shadow: 0px 0px 20px 0px #929292;
+}
+
+.slider-name_item1 {
+    padding-left: 42px;
 }
 
 .header-contacts_mail {
@@ -100,7 +103,7 @@ body {
     text-decoration: none;
     color: #434242;
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 400;
     padding-top: 7px;
     padding-bottom: 4px;
     border-radius: 12px;
