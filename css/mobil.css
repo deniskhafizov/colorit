@@ -1,11 +1,10 @@
 @media screen and (max-width: 850px) {
      .menu a {
-         font-size: 16px;
+         font-size: 14px;
      }
 
     .menu {
-        width:
-        500px;
+        margin: 0 auto;
     }
     .slider-name {
         font-size: 23px;
