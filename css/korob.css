@@ -11,3 +11,47 @@ h2 {
     border-radius: 50px;
     box-shadow: 0px 0px 25px 5px #a4a4a4;
 }
+
+.photos {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+.photos p {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.photos p img {
+    padding: 10px;
+    background-color: #fffefe;
+    border-radius: 158px;
+    box-shadow: 0px 0px 15px 0px #848484;
+}
+
+.tabl img  {
+    width: 700px;
+}
+
+.tabl-text {
+    font-size: 1.4em;
+    line-height: 1.5em;
+    padding: 0px 100px 20px 40px;
+    max-width: 380px;
+}
+
+.tabl-text-img {
+    display: flex;
+    padding-top: 50px;
+}
+
+.tabl-text-img h2 {
+    padding: 20px 20px 0px 0px;
+    font-size: ;
+}
+
+.tabl-text-img h2 {
+    padding: 20px 20px 0px 0px;
+    font-size: ;
+}

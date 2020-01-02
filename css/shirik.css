@@ -61,6 +61,14 @@ td, th {
     background-color: #e3e2e2;
 }
 
+.table-inter td, th {
+    border: thin dotted #9d9a9a;
+    padding: 15px;
+}
+.table-inter tr:nth-child(odd)  {
+    background-color: #e3e2e2;
+}
+
 .footer {
     padding-top: 80px;
 }
