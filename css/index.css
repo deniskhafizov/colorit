@@ -105,11 +105,11 @@ h1 {
 
 
 .popular, .popular2 {
-    padding-left: 275px;
+    margin: 0 auto;
 }
 
 .popular_roll {
     display: flex;
-    margin: 0 auto;
+
     padding: 50px 0px 100px 0px;
 }
