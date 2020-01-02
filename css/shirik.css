@@ -1,5 +1,5 @@
 .shirik img  {
-    width: 700px;
+    width: 600px;
 }
 
 .shirik-text {
@@ -12,6 +12,7 @@
 .shirik-text-img {
     display: flex;
     padding-top: 50px;
+    width: 1100px;
 }
 
 .shirik-text-img h2 {

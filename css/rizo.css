@@ -1,5 +1,5 @@
 .rizo-img img {
-    width: 600px;
+    width: 550px;
 }
 
 .rizo-text {
@@ -12,6 +12,7 @@
 .rizo-text-img {
     display: flex;
     padding-top: 50px;
+    width: 1100px;
 }
 
 .rizo-text-img h2 {

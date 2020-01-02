@@ -1,10 +1,10 @@
 @media screen and (max-width: 850px) {
      .menu a {
-         font-size: 16px;
+         font-size: 18px;
      }
 
     .slider-name {
-        font-size: 28px;
+        font-size: 23px;
     }
     .popular-vizitki_name, .popular-balnk_name, .popular-buklet_name, .popular-banner_name,
     .popular2-kalendar_name, .popular2-listovka_name, .popular2-bloknot_name, .popular2-katalog_name {

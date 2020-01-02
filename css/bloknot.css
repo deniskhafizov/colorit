@@ -12,6 +12,7 @@
 .bloknot-text-img {
     display: flex;
     padding-top: 20px;
+    width: 1100px;
 }
 
 .bloknot-text-img h2 {

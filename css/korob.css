@@ -31,7 +31,8 @@ h2 {
 }
 
 .tabl img  {
-    width: 700px;
+    padding-top: 160px;
+    width: 500px;
 }
 
 .tabl-text {
@@ -44,6 +45,7 @@ h2 {
 .tabl-text-img {
     display: flex;
     padding-top: 50px;
+    width: 1100px;
 }
 
 .tabl-text-img h2 {

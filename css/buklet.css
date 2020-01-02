@@ -1,5 +1,5 @@
 .buklet img {
-    width: 700px;
+    width: 500px;
 }
 
 .buklet-text {
@@ -12,6 +12,7 @@
 .buklet-text-img {
     display: flex;
     padding-top: 20px;
+    width: 1100px;
 }
 
 .buklet-text-img h2 {

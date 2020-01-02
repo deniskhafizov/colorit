@@ -1,5 +1,5 @@
 .kalendari img {
-    width: 700px;
+    width: 500px;
 }
 
 .kalendari-text {
@@ -12,6 +12,7 @@
 .kalendari-text-img {
     display: flex;
     padding-top: 20px;
+    width: 1100px;
 }
 
 .kalendari-text-img h2 {

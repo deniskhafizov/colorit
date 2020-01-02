@@ -1,5 +1,5 @@
 .vizitki img {
-    width: 700px;
+    width: 600px;
 }
 
 .vizitki-text {
@@ -12,6 +12,7 @@
 .vizitki-text-img {
     display: flex;
     padding-top: 20px;
+    width: 1100px;
 }
 
 .vizitki-text-img h2 {
