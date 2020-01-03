@@ -15,9 +15,9 @@ body {
 
 .header-message {
     position: relative;
-    right: 430px;
+    right: 410px;
     top: -75px;
-    padding: 10px 0px 0px 25px;
+    padding: 10px 0px 0px 15px;
 }
 
 .header-message img {
@@ -78,7 +78,9 @@ body {
 }
 
 .slider-name_item1 {
-    padding-left: 42px;
+    width: 715px;
+    margin: 0 auto;
+    padding-top: 30px;
 }
 
 .header-contacts_mail {
@@ -94,8 +96,11 @@ body {
 
 
 .menu {
+    width: 520px;
+    height: 18px;
+    margin: 0 auto;
     text-align: center;
-    padding: 20px 0px 30px 200px;
+    padding: 20px 0px 30px 20px;
 }
 .menu-item {
     padding: 0px 5px 0px 5px;
@@ -108,6 +113,8 @@ body {
     padding-bottom: 4px;
     border-radius: 12px;
     transition: 350ms;
+    display: inline-block;
+}
 }
 
 .menu-item:hover {
