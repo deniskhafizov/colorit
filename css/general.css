@@ -113,6 +113,8 @@ body {
     padding-bottom: 4px;
     border-radius: 12px;
     transition: 350ms;
+    display: inline-block;
+}
 }
 
 .menu-item:hover {
